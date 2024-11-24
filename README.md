@@ -2,6 +2,8 @@
 
 A simple yet powerful web application for processing text through AI language models sequentially. Perfect for batch processing text with consistent prompts.
 
+**You can run int on the fly - without installing anything!** (the mimimum requirement is just a free Groq API key)
+
 ## Features ✨
 
 - **Multiple AI Providers**
